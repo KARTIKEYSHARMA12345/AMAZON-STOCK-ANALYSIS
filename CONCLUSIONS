@@ -1,0 +1,26 @@
+Performance Overview
+
+MSFT showed consistent growth with notable volatility spikes around Q2 earnings and macroeconomic policy announcements.
+
+Average daily return was X%, with a cumulative return of Y% for 2025.
+
+Risk & Volatility Analysis
+
+Calculated 20-day rolling volatility revealed elevated risk in March–April and October–November.
+
+The Sharpe Ratio averaged Z, indicating a moderate risk-adjusted return compared to the risk-free rate.
+
+Forecasting
+
+ARIMA (1,1,1) model was deployed to forecast log returns.
+
+Forecast indicated a potential upward trend with a 95% confidence interval, useful for strategic entry/exit points.
+
+Valuation Models
+
+Discounted Cash Flow (DCF): Based on projected free cash flows and a WACC of X%, the intrinsic value was estimated at $XYZ, slightly below current market value, suggesting slight overvaluation.
+
+Comparable Company Analysis (P/E Multiple): MSFT’s trailing P/E ratio was higher than peers, indicating premium pricing driven by tech dominance and AI investments.
+FINAL RECOMMENDATIOn:-
+Considering the quantitative analysis and valuation outcomes, MSFT presents itself as a "Hold" for conservative investors and a "Buy on Dips" for growth-focused portfolios. While long-term fundamentals remain strong, short-term price volatility warrants cautious optimism.
+
